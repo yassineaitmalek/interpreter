@@ -1,0 +1,11 @@
+loadc 2
+loadc 1
+mul
+store 1
+load 1
+write 1
+loadc 3
+mul
+store 1
+write 1
+end
